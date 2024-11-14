@@ -1,0 +1,45 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="coseno">
+    <output-path>$PROJECT_DIR$/out/artifacts/coseno</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="coseno" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: jakarta.platform:jakarta.jakartaee-api:11.0.0-M4" />
+          <element id="library" level="project" name="Maven: jakarta.platform:jakarta.jakartaee-web-api:11.0.0-M4" />
+          <element id="library" level="project" name="Maven: jakarta.data:jakarta.data-api:1.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.enterprise:jakarta.enterprise.cdi-el-api:4.1.0" />
+          <element id="library" level="project" name="Maven: jakarta.el:jakarta.el-api:6.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:3.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.faces:jakarta.faces-api:4.1.0" />
+          <element id="library" level="project" name="Maven: jakarta.websocket:jakarta.websocket-api:2.2.0" />
+          <element id="library" level="project" name="Maven: jakarta.websocket:jakarta.websocket-client-api:2.2.0" />
+          <element id="library" level="project" name="Maven: jakarta.transaction:jakarta.transaction-api:2.0.1" />
+          <element id="library" level="project" name="Maven: jakarta.persistence:jakarta.persistence-api:3.2.0" />
+          <element id="library" level="project" name="Maven: jakarta.validation:jakarta.validation-api:3.1.0" />
+          <element id="library" level="project" name="Maven: jakarta.authentication:jakarta.authentication-api:3.1.0-M1" />
+          <element id="library" level="project" name="Maven: jakarta.security.enterprise:jakarta.security.enterprise-api:4.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.enterprise.concurrent:jakarta.enterprise.concurrent-api:3.1.0" />
+          <element id="library" level="project" name="Maven: jakarta.platform:jakarta.jakartaee-core-api:11.0.0-M4" />
+          <element id="library" level="project" name="Maven: jakarta.ws.rs:jakarta.ws.rs-api:4.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.json:jakarta.json-api:2.1.3" />
+          <element id="library" level="project" name="Maven: jakarta.json.bind:jakarta.json.bind-api:3.0.1" />
+          <element id="library" level="project" name="Maven: jakarta.annotation:jakarta.annotation-api:3.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.interceptor:jakarta.interceptor-api:2.2.0" />
+          <element id="library" level="project" name="Maven: jakarta.enterprise:jakarta.enterprise.cdi-api:4.1.0" />
+          <element id="library" level="project" name="Maven: jakarta.inject:jakarta.inject-api:2.0.1" />
+          <element id="library" level="project" name="Maven: jakarta.enterprise:jakarta.enterprise.lang-model:4.1.0" />
+          <element id="library" level="project" name="Maven: jakarta.jms:jakarta.jms-api:3.1.0" />
+          <element id="library" level="project" name="Maven: jakarta.activation:jakarta.activation-api:2.1.3" />
+          <element id="library" level="project" name="Maven: jakarta.mail:jakarta.mail-api:2.1.3" />
+          <element id="library" level="project" name="Maven: jakarta.resource:jakarta.resource-api:2.1.0" />
+          <element id="library" level="project" name="Maven: jakarta.authorization:jakarta.authorization-api:3.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.batch:jakarta.batch-api:2.1.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="coseno/web/Web" />
+    </root>
+  </artifact>
+</component>
